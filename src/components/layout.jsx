@@ -1,6 +1,6 @@
 import * as React from 'react'
 import { Link } from 'gatsby'
-import { container } from './layout.module.css'
+import { container } from './layouts.module.css'
 
 const Layout = ({ pageTitle, children }) => {
     return (
