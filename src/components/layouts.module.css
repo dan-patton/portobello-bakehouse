@@ -19,6 +19,5 @@
     color: black;
 }
 img {
-  max-width: auto;
-  height: auto;
+  max-width: 500;
 }
