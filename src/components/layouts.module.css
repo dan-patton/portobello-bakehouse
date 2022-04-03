@@ -21,3 +21,9 @@
 img {
   width: 500px;
 }
+.site-title {
+    font-size: 2.8rem;
+    color: bisque;
+    font-weight: 700;
+    margin: 3rem 0;
+  }
